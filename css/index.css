@@ -1,0 +1,229 @@
+@font-face {
+    font-family: SDGtNeobUni;
+    src: url('/font/AppleSDGothicNeoB.ttf');
+}
+
+
+
+header {
+    width: 100%;
+    height: 920px;
+    clear: both;
+    background-image: url('https://blogfiles.pstatic.net/MjAyMDExMjlfMTkz/MDAxNjA2NjMxNjIwODk4.vWrYeM5oBo68Y1glXUUvV33pg0BalPjepbH9HpSb_Nwg.MZop3n1oH5AaINlNNwsVDTjItO-R8gtWNvd5F4y8-fIg.PNG.hevvyprime/header_01.png?type=w2');
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 90px;
+}
+
+.logo_area {
+    width: 70%;
+    height: 56px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.mt {
+    width: 62%;
+    text-align: center;
+    margin: auto;
+    height: 100%;
+    line-height: 56px;
+    color: white;
+
+}
+
+.logo {
+
+    width: 17%;
+}
+
+.text_choice {
+    margin: auto;
+    margin-top: 60px;
+    width: 91%;
+    height: 62px;
+}
+
+.text_choice4 img {
+    width: 100%;
+    height: 100%;
+}
+
+.text_choice4 {
+    width: 91%;
+    height: 165px;
+    margin: auto;
+    text-align: center;
+}
+
+.text_choice3 {
+    width: 91%;
+    margin: auto;
+    margin-top: 26px;
+    height: 45px;
+    line-height: 45px;
+    text-align: right;
+    clear: both;
+    letter-spacing: 1.2px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 31px;
+    color: white;
+}
+
+.text_choice2 {
+    clear: both;
+    width: 91%;
+    margin: auto;
+    margin-top: 57px;
+    line-height: 1.8;
+    color: white;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 1.7em;
+}
+
+.text_choice2 b {
+    color: #FFF799;
+    font-weight: 900;
+}
+
+sup {
+    vertical-align: super !important;
+    font-size: smaller !important;
+}
+
+.text_choice nav {
+    width: 24%;
+    height: 100%;
+    line-height: 62px;
+    color: white;
+    font-size: 50px;
+    font-family: SDGtNeobUni;
+}
+
+.container {
+    width: 100%;
+    clear: both;
+    padding-top: 80px;
+    height: 2000px;
+    background-color: #1C7415;
+}
+
+
+
+.graph {
+    width: 100%;
+    height: 566px;
+    margin-top: 108px;
+    background-image: url('https://blogfiles.pstatic.net/MjAyMDExMjlfMjU1/MDAxNjA2NjQ4NDkzODI3.0WoBpBjaYFwjsru7JWvEsT-7F5fauzZ_S5wSVSf5TS8g.nBPfiCB2o-YfKMU7j5kuCZjS4wmdiXDUCSqh-euzyZ4g.PNG.hevvyprime/header_07.png?type=w2');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.double_article {
+    width: 91%;
+    margin: auto;
+    clear: both;
+    margin-top: 53px;
+    height: 1002px;
+    background-image: url('https://blogfiles.pstatic.net/MjAyMDExMjlfMjA3/MDAxNjA2NjQ2NDI5MTAx.RPPgLV5g951Ir85WsG98ctVfwY2pjMV_uUKwenl-fm8g.77uHZ7iA2YDnhqHUIcy5xlDhuWDoVSSz9uRI4WKyaoQg.PNG.hevvyprime/header_05.png?type=w2');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.guide {
+    width: 100%;
+    background: white;
+    clear: both;
+}
+
+#guide_01 b {
+    font-weight: 900 !important;
+}
+
+#guide_01 {
+    width: 91%;
+    margin: 0 auto;
+    margin-top: 61px;
+    font-size: 16px;
+    padding: 15PX;
+    line-height: 1.5;
+    font-family: 'Noto Sans KR', sans-serif;
+    color: white;
+    background-color: #66AD4B;
+}
+
+#guide_02 nav {
+    margin-bottom: 20px;
+}
+
+#guide_02 {
+    width: 93%;
+    margin: 0 auto;
+    border-top: 3px solid #D9DDD8;
+    background: white;
+    padding-top: 14px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer_02 span {
+    position: absolute;
+    right: 0;
+    bottom: 20px;
+}
+
+.footer_02 {
+    text-align: center;
+    height: 116px;
+    width: 91%;
+    padding-top: 35px;
+    margin: auto;
+    font-size: 17px;
+    font-family: 'Noto Sans KR', sans-serif;
+    line-height: 1.5;
+    position: relative;
+    color: #000000;
+
+}
+
+.footer_01 {
+    margin: auto;
+    margin-top: 90px;
+    width: 90%;
+    height: 100px;
+    text-align: center;
+    border-bottom: 1px solid #000000;
+    padding-bottom: 20px;
+    background-image: url(https://blogfiles.pstatic.net/MjAyMDExMzBfNjEg/MDAxNjA2NjkxMzQ3MTYz.0Vq3hIVciUrQZQEcrGCuC9GgRYBNSRjV_Z_IKV4KnUUg.ahFDhLQOsH8sqlyjDMSm-3Tf9FxwNQ8BzN6nSpP-r4Mg.PNG.hevvyprime/header_10.png?type=w2);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.product {
+    width: 50%;
+    margin: auto;
+    height: 135px;
+}
+
+#guide_02 b {
+    color: #13390A;
+    font-weight: 900 !important;
+}
+
+#guide_01 nav {
+    margin-bottom: 11px;
+}

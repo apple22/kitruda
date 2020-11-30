@@ -1,0 +1,5 @@
+[1129/050205.423:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+[1130/103944.690:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+[1130/135513.866:ERROR:process_info.cc(359)] UncheckedAllocate
+[1130/135513.940:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\admin\AppData\Roaming\Brackets\live-dev-profile\Crashpad\attachments\9f824c81-65c0-4fee-a9f5-bc7472576701: 지정된 경로를 찾을 수 없습니다. (0x3)
+[1130/140200.070:ERROR:process_info.cc(359)] UncheckedAllocate
